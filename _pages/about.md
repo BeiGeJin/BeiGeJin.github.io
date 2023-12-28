@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href=https://statistics.berkeley.edu/people/jerry-jin>Department of statistics, UC Berkeley</a>
+subtitle: <a href=https://statistics.berkeley.edu/people/jerry-jin>Department of Statistics, U.C. Berkeley</a>
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: #
 
 # news: false  # includes a list of news items
@@ -15,8 +15,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I’m Jerry Jin, a Master's student at Department of Statistics, U.C. Berkeley. I also have a B.S. in Psychology and a B.A. in Philosophy at PKU (Peking University).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My general research interest lies in computational modeling in psychology and cognitive neuroscience. I'm especially interested in the research of memory, which, I think, is closely related to our understanding of consciousness and self.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I had the priviledge of working with Professor Huan Luo and Huihui Zhang on serial dependence at PKU. I also had a wonderful time working with Professor Michael J. Kahana at UPenn on CMR-IA, a model of memory for items and associations. Currently, I'm working on developing rucurrent neural networks coupled with feedback control in NSDS lab at U.C. Berkeley, guided by Professor Kristofer Bouchard.
+
+I’m seeking 2024 Fall RA position in labs focusing on psychology/cognitive neuroscience.
