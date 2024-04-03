@@ -8,7 +8,7 @@ category: work
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-Every project has a beautiful feature showcase page <a href="{{ CV_JerryJin.pdf | prepend: 'assets/pdf/' | relative_url}}">11111</a> .
+Every project has a beautiful feature showcase page <a href="{{ 'CV_JerryJin.pdf' | prepend: 'assets/pdf/' | relative_url}}">11111</a> .
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
