@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schizophrenia Classifier
+title: Schizophr SVM
 description: Schizophrenia Classifier
 # img: assets/img/1.jpg
 importance: 3

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Serial Dependence
+title: SD
 description: Temporal Dynamics in Serial Dependence
 # img: assets/img/7.jpg
 # redirect: https://unsplash.com
