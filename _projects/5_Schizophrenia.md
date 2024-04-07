@@ -3,7 +3,7 @@ layout: page
 title: Schizophr SVM
 description: Schizophrenia Classifier
 # img: assets/img/1.jpg
-importance: 3
+importance: 2
 category: COURSE
 ---
 

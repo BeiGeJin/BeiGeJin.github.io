@@ -5,7 +5,7 @@ description: Feedback Control and Gain Modulation in Neural Networks
 # img: assets/img/3.jpg
 importance: 2
 category: RESEARCH
-giscus_comments: true
+# giscus_comments: true
 ---
 
 Advisor: Professor Kristofer Bouchard, Neural Systems and Data Science Lab, Lawrence Berkeley National Laboratory
