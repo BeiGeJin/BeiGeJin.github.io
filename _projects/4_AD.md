@@ -3,7 +3,7 @@ layout: page
 title: Digital Twins
 description: Digital Twins for Alzheimer’s Disease Patients
 # img:
-importance: 3
+importance: 1
 category: COURSE
 ---
 
