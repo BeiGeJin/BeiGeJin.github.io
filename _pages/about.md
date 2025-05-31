@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href=https://statistics.berkeley.edu/people/jerry-jin>Department of Statistics, U.C. Berkeley</a>
+# subtitle: <a href=https://statistics.berkeley.edu/people/jerry-jin>Department of Statistics, U.C. Berkeley</a>
 profile:
   align: right
   image: prof_pic.jpg
@@ -15,10 +15,8 @@ profile:
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I’m Jerry Jin, a Master's student at Department of Statistics, U.C. Berkeley. I also have a B.S. in Psychology and a B.A. in Philosophy at Peking University (PKU).
+Hi! I’m Jerry Jin, a research associate in the Machine Learning Department at **Carnegie Mellon University (CMU)**. I hold an M.A. in Statistics from **UC Berkeley**, as well as a B.S. in Psychology and a B.A. in Philosophy from **Peking University (PKU)**.
 
-My general research interest lies in computational modeling in Psychology and Cognitive Neuroscience. I'm especially interested in the research of memory, which, I think, is essential to our understanding of who we are.
+My general research interests lie in **Computational Cognitive Neuroscience** and computational approaches in Psychology. I've had the priviledge of working with [Prof. Huan Luo](https://mgv.pku.edu.cn/english/people/lbd/sopacs/360652.htm) and [Huihui Zhang](https://www.researchgate.net/profile/Huihui-Zhang-6) on serial dependence at PKU. I also had a wonderful experience collaborating with [Prof. Michael Kahana](https://psychology.sas.upenn.edu/people/michael-kahana) in [CML Lab](https://memory.psych.upenn.edu/Main_Page) at UPenn, where we developed CMR-IA, a model of memory for items and associations. 
 
-I had the priviledge of working with [Prof. Huan Luo](https://mgv.pku.edu.cn/english/people/lbd/sopacs/360652.htm) and [Huihui Zhang](https://www.researchgate.net/profile/Huihui-Zhang-6) on serial dependence at PKU. I also had a wonderful time working with [Prof. Michael Kahana](https://psychology.sas.upenn.edu/people/michael-kahana) in [CML Lab](https://memory.psych.upenn.edu/Main_Page) at UPenn on CMR-IA, a model of memory for items and associations. Currently, I'm working on feedback control and gain modulation in neural networks in [NSDS Lab](https://bouchardlab.lbl.gov/) at U.C. Berkeley, guided by [Prof. Kristofer Bouchard](https://biosciences.lbl.gov/profiles/kristofer-e-bouchard/).
-
-I’m seeking 2024 Fall RA position in labs focusing on Psychology/Cognitive Neuroscience.
+Currently, I'm fortunate to be advised by [Prof. Leila Wehbe](https://www.cs.cmu.edu/~lwehbe/), focusing on the integration of machine learning with MEG and fMRI in naturalistic experiments.
