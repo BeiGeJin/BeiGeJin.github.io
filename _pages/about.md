@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Carnegie Mellon University # <a href=https://statistics.berkeley.edu/people/jerry-jin>Department of Statistics, U.C. Berkeley</a>
+subtitle: Carnegie Mellon University 
+# <a href=https://statistics.berkeley.edu/people/jerry-jin>Department of Statistics, U.C. Berkeley</a>
 profile:
   align: right
   image: prof_pic.jpg
