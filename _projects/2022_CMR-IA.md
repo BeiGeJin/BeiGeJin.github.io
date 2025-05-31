@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "CMR-IA: A Computational Model of Memory for Items and Associations"  
-description: Advised by Prof. Michael Kahana, Upenn
+description: Advised by Prof. Michael Kahana, UPenn
 # img: assets/img/12.jpg
 importance: 1
 category: RESEARCH
