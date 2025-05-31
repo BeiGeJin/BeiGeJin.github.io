@@ -4,7 +4,7 @@ title: Feedback Control and Gain Modulation in Neural Networks
 description: Advised by Prof. Kristofer Bouchard, UC Berkeley
 # img: assets/img/3.jpg
 importance: 3
-category: RESEARCH
+category: fun
 # giscus_comments: true
 ---
 
