@@ -14,16 +14,10 @@ We apply CMR-IA to key findings concerning recognition of items and associations
 
 [Paper](https://osf.io/preprints/psyarxiv/xm8v6_v1) (Submitted)
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/pdf/beige_CMRIA_poster.pdf" title="CMR-IA Poster" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+Poster (presented at CNS2024 & CEMS2024):
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <iframe src="{{ '/assets/pdf/beige_CMRIA_poster.pdf' | relative_url }}" width="100%" height="500px" frameborder="0"></iframe>
     </div>
 </div>
-
-Poster accepted by Cognitive Neuroscience Society (CNS 2024)!
