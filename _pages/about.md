@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-# subtitle: <a href=https://statistics.berkeley.edu/people/jerry-jin>Department of Statistics, U.C. Berkeley</a>
+subtitle: / # <a href=https://statistics.berkeley.edu/people/jerry-jin>Department of Statistics, U.C. Berkeley</a>
 profile:
   align: right
   image: prof_pic.jpg
