@@ -4,7 +4,7 @@ title: SCZ SVM
 description: Schizophrenia Classifier
 # img: assets/img/1.jpg
 importance: 2
-category: COURSE
+category: fun
 ---
 
 Course Project for PSYCH 115 (Brain Imaging Analysis Methods)
